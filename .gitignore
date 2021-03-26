@@ -1,0 +1,8 @@
+# air
+tmp
+
+# mod vendor
+vendor
+
+# tls keys
+/tls/*.pem
