@@ -30,7 +30,7 @@ Recursos BD en `/sql` y `/docker-compose.yml`
     - user.sql
 
 
-Para dev crear TLS certificate en `/tls/generate_cert.sh`
+Para `https` dev crear TLS certificate en `/tls/generate_cert.sh`
 
 ```shell
 #!/bin/bash
