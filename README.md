@@ -19,7 +19,7 @@ go mod vendor
 
 Recursos BD en `/sql` y `/docker-compose.yml`
 
-- Levantar Doker compose para la base de datos 
+- Levantar Docker compose para la base de datos 
     ```docker
     docker-compose up
     ```
